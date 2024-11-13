@@ -9,7 +9,7 @@ const capabilities = {
   'appium:automationName': 'UiAutomator2',
   'appium:deviceName': 'Medium Phone API 35',
   'appium:chromedriverAutodownload': true,
-  'appium:chromedriverExecutable': '/path/to/your/chromedriver' // specify your chromedriver path
+  'appium:chromedriverExecutable': '/Users/mikitinski/.nvm/versions/node/v20.16.0/bin/chromedriver' // specify your chromedriver path
   // 'appium:appPackage': 'com.android.settings.apps.chrome',
   // 'appium:appActivity': 'com.google.android.apps.chrome.Main',
 };
